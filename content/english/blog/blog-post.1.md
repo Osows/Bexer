@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image_webp: "images/blog/post-1.webp"
 image: "images/blog/post-1.jpg"
 # post author
-author: "Themefisher"
+author: "Osows"
 # taxonomies
 categories: ["Investment Planning"]
 tags: ["Advice","Business"]

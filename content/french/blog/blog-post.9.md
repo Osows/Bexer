@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image_webp: "images/blog/post-9.webp"
 image: "images/blog/post-9.jpg"
 # post author
-author: "Themefisher"
+author: "Osows"
 # taxonomies
 categories: ["Market Analysis"]
 tags: ["Business","Marketing"]

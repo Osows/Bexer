@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image_webp: "images/blog/post-5.webp"
 image: "images/blog/post-5.jpg"
 # post author
-author: "Themefisher"
+author: "Osows"
 # taxonomies
 categories: ["Afiliated Marketing"]
 tags: ["Business","Consultancy"]

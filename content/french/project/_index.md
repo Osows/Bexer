@@ -1,5 +1,5 @@
 ---
-subtitle : "Bexar Case Studies"
+subtitle : "Bexer Case Studies"
 title : "Case Study"
 # meta description
 description: "this is meta description"

@@ -1,6 +1,6 @@
 ---
 subtitle : "Latest News"
-title : "Learn From Bexar"
+title : "Learn From Bexer"
 # meta description
 description: "this is meta description"
 # page title background image

@@ -126,7 +126,7 @@ funfacts :
 feature:
   enable : true
   subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
+  title : "Why They Choose Bexer"
   image_webp : "images/feature/feature.webp"
   image : "images/feature/feature.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
@@ -194,7 +194,7 @@ testimonial:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Bexar give the smart solution for your business"
+  title : "Bexer give the smart solution for your business"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:
